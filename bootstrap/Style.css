@@ -1,0 +1,49 @@
+.Message {
+	margin:0 auto;
+	width:450px;
+}
+.Message1{
+	height:100px;
+}
+.messagee{
+	vertical-align:top;
+}
+#about tr td{
+	margin:20px;
+}
+.judul1{
+	border-top:2px solid #a0a0d0;
+	font-family:arial;
+	font-size:25px;	
+	color:#202070;
+	text-align:center;
+}
+.judul{
+	font-family:arial;
+	font-size:25px;	
+	color:#202070;
+	text-align:left;
+	margin-left:10%;
+}
+.photo{
+	text-align:left;
+	width:250px;
+}
+.profile{
+	width:100%;
+	height:200px;
+}
+#about{
+	padding:20px;
+}
+#send{
+	margin-top:10px;
+	width:20%;
+	background-color:#9090c0;
+	color:white;
+}
+#name{
+	border:#a0a0d0 1px solid;
+	color:#101050;
+	width:20%;
+}

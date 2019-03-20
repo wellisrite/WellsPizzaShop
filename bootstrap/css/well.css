@@ -1,0 +1,35 @@
+#well{
+color:white;
+}
+#topping{
+  background-color: black;
+  color:white;
+}
+.active{
+  background-color: white;
+}
+#rite{
+  background-image:url("../1.jpg");
+  opacity: 0.9;
+  background-repeat: fixed;
+}
+#submit{
+  width:100px;
+  margin-left:90%;
+  background-color:white;
+}
+#sing{
+  background-color: white;
+  color:#323280;
+}
+.panel-default > .panel-heading{
+  background-color: black;
+  color:white;
+}
+.panel-default > .panel-footer {
+  background-color: black;
+  color:white;
+}
+.jumbotron{
+  margin-bottom: 0;
+}
